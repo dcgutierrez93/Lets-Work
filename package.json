@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dcgutierrez93/Lets-Work/issues"
   },
-  "homepage": "https://github.com/dcgutierrez93/Lets-Work#readme"
+  "homepage": "https://github.com/dcgutierrez93/Lets-Work#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
