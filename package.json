@@ -1,0 +1,19 @@
+{
+  "name": "lets-work",
+  "version": "1.0.0",
+  "description": "Collaberation and Document Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcgutierrez93/Lets-Work.git"
+  },
+  "author": "David Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcgutierrez93/Lets-Work/issues"
+  },
+  "homepage": "https://github.com/dcgutierrez93/Lets-Work#readme"
+}
